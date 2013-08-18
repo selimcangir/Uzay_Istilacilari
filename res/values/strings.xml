@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UzayIstilacilari</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="baslik_1">Uzay</string>
+    <string name="baslik_2">İstilacıları</string>
+    <string name="menu_basla">Başla</string>
+    <string name="isabetlilik">İsabetlilik</string>
+
+</resources>
